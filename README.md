@@ -3,10 +3,7 @@
 </p>
 
 I am an educational leader, Data Scientist, and technology entrepreneur from Ghana with a passion for leveraging data and technology to transform education.
-
-I hold a Master of Technology (MTech) in Data Science (GPA: 3.81) and currently serve as a Principal within Ghana's Technical and Vocational Education and Training (TVET) sector.
-
-My work focuses on Educational Technology, Learning Analytics, Artificial Intelligence in Education, Digital Transformation, and Data-Driven Decision Making.
+I hold a Master of Technology (MTech) in Data Science (GPA: 3.81) and currently serve as a Principal within Ghana's Technical and Vocational Education and Training (TVET) sector. My work focuses on Educational Technology, Learning Analytics, Artificial Intelligence in Education, Digital Transformation, and Data-Driven Decision Making.
 
 ## About Me 🚀
 
