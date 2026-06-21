@@ -1,5 +1,3 @@
-# Hi there, I'm Robert Frimpong Adu! 👋
-
 <p align="center">
   <img src="images/github-banner.png" width="100%">
 </p>
