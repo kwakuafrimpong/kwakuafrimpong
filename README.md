@@ -48,20 +48,21 @@ My work focuses on Educational Technology, Learning Analytics, Artificial Intell
 
 ## Featured Projects 💻
 
+# EduTrackSMS Platform
+### Administrative Dashboard
+
+<p align="center">
+  <img src="images/dashboard.png" width="100%">
+</p>
+
+### Mobile Portals
+<p align="center">
+  <img src="images/student-portal.png" width="250">
+  <img src="images/teacher-portal.png" width="250">
+  <img src="images/security-portal.png" width="250">
+</p>
+
 ### EduTrackSMS
-
-## EduTrackSMS Dashboard
-![Dashboard](images/dashboard.png)
-
-## Student Portal
-![Student Portal](images/student-portal.png)
-
-## Teacher Portal
-![Teacher Portal](images/teacher-portal.png)
-
-## Security Portal
-![Security Portal](images/security-portal.png)
-
 A cloud-based online/offline desktop app educational management platform helping schools operate digitally and make data-driven decisions.
 
 #### Key Features
