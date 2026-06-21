@@ -94,6 +94,9 @@ A cloud-based online/offline desktop app educational management platform helping
 ### Student Performance Prediction using Artificial Neural Networks
 
 A Data Science project focused on predicting student academic performance using machine learning and neural network models.
+<p align="center">
+  <img src="images/student-performance.png" width="100%">
+</p>
 
 #### Skills Demonstrated
 
