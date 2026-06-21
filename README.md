@@ -1,6 +1,8 @@
 # Hi there, I'm Robert Frimpong Adu! 👋
 
-## Principal | Data Scientist | Founder of EduTrackSMS | Educational Technology Innovator
+<p align="center">
+  <img src="images/github-banner.png" width="100%">
+</p>
 
 I am an educational leader, Data Scientist, and technology entrepreneur from Ghana with a passion for leveraging data and technology to transform education.
 
